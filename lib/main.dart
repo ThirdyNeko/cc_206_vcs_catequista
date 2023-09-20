@@ -1,3 +1,5 @@
+//{John Marc Abogador}: {There is a right time for everything, and everything on Earth will happen at the right time.}
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -7,7 +9,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // This widget is the root of your application.b gfghfghfhg
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
